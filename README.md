@@ -1,5 +1,5 @@
 
-# Sistema Didáctico de Medición Cognitiva y Emocional
+# Sistema Didáctico de Medición Cognitiva y Emocional ...
 
 Plataforma modular orientada a la **creación, ejecución y análisis de tests cognitivo–emocionales**, con foco en didáctica, investigación y medición perceptiva.  
 Este repositorio contiene el código fuente del sistema, su documentación base y la arquitectura establecida por el equipo.
